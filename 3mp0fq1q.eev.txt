@@ -1,0 +1,35 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	renamed:    PX4AIRSPEEDv1.1.brd -> PX4AIRSPEEDv1.1/PX4AIRSPEEDv1.1.brd
+#	renamed:    PX4AIRSPEEDv1.1.sch -> PX4AIRSPEEDv1.1/PX4AIRSPEEDv1.1.sch
+#	renamed:    PX4FLOW1.3.1.brd -> PX4FLOW1.3.1/PX4FLOW1.3.1.brd
+#	renamed:    PX4FLOW1.3.1.sch -> PX4FLOW1.3.1/PX4FLOW1.3.1.sch
+#	renamed:    PX4FMUv1.6.brd -> PX4FMUv1.6/PX4FMUv1.6.brd
+#	renamed:    PX4FMUv1.6.sch -> PX4FMUv1.6/PX4FMUv1.6.sch
+#	renamed:    PX4FMUv1.7.1.brd -> PX4FMUv1.7.1/PX4FMUv1.7.1.brd
+#	renamed:    PX4FMUv1.7.1.sch -> PX4FMUv1.7.1/PX4FMUv1.7.1.sch
+#	renamed:    PX4FMUv1.7.brd -> PX4FMUv1.7/PX4FMUv1.7.brd
+#	renamed:    PX4FMUv1.7.sch -> PX4FMUv1.7/PX4FMUv1.7.sch
+#	renamed:    PX4FMUv2.3.brd -> PX4FMUv2.3/PX4FMUv2.3.brd
+#	renamed:    PX4FMUv2.3.sch -> PX4FMUv2.3/PX4FMUv2.3.sch
+#	renamed:    PX4FMUv2.4.3.brd -> PX4FMUv2.4.3/PX4FMUv2.4.3.brd
+#	renamed:    PX4FMUv2.4.3.sch -> PX4FMUv2.4.3/PX4FMUv2.4.3.sch
+#	renamed:    PX4FMUv2.4.5.brd -> PX4FMUv2.4.5/PX4FMUv2.4.5.brd
+#	renamed:    PX4FMUv2.4.5.sch -> PX4FMUv2.4.5/PX4FMUv2.4.5.sch
+#	renamed:    PX4FMUv2.4.6.brd -> PX4FMUv2.4.6/PX4FMUv2.4.6.brd
+#	renamed:    PX4FMUv2.4.6.sch -> PX4FMUv2.4.6/PX4FMUv2.4.6.sch
+#	renamed:    PX4FMUv2.4.brd -> PX4FMUv2.4/PX4FMUv2.4.brd
+#	renamed:    PX4FMUv2.4.sch -> PX4FMUv2.4/PX4FMUv2.4.sch
+#	renamed:    PX4IOARMTv1.0.brd -> PX4IOARMTv1.0/PX4IOARMTv1.0.brd
+#	renamed:    PX4IOARMTv1.0.sch -> PX4IOARMTv1.0/PX4IOARMTv1.0.sch
+#	renamed:    PX4IOARv1.2.brd -> PX4IOARv1.2/PX4IOARv1.2.brd
+#	renamed:    PX4IOARv1.2.sch -> PX4IOARv1.2/PX4IOARv1.2.sch
+#	renamed:    PX4IOv1.3.brd -> PX4IOv1.3/PX4IOv1.3.brd
+#	renamed:    PX4IOv1.3.sch -> PX4IOv1.3/PX4IOv1.3.sch
+#
+
